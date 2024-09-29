@@ -1,4 +1,4 @@
-# Portfolio Optimizer App
+# Portfolio Optimizer App 📈
 
 The **Portfolio Optimizer App** is an intuitive and user-friendly tool designed to help investors optimize their stock portfolios by effectively balancing risk and return. It empowers users to manage risk and maximize returns by leveraging advanced financial modeling techniques.
 
@@ -24,4 +24,13 @@ The app assists users in identifying portfolio weightings that offer the lowest 
 5. **Results Display:**  
    - The app presents the optimized portfolio weightings.
    - It plots the Efficient Frontier, visually representing the trade-offs between risk and return for the simulated portfolios.
+
+
+### Project Input:
+<img src="./input.png" alt="Project Input" width="300"/>
+
+
+
+### Project Output:
+<img src="./output.png" alt="Project Output" width="400"/>
 
